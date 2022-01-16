@@ -1,3 +1,12 @@
 {
-    "version": "1.0.0"
+    "name": "Birkje Front-end",
+    "module": "birkje-frontend",
+    "description": "Frontend site for Birkje.nl",
+    "author": "Birkje Team",
+    "version": "1.0.0",
+    "repository": "https://github.com/birkje/birkje-frontend",
+    "license": "GPLv3",
+    "listed-in": [
+        "https://raw.githubusercontent.com/birkje/site-updates/main/stable.json"
+    ]
 }
