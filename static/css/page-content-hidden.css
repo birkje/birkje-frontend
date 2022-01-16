@@ -1,0 +1,42 @@
+.announcement {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    height: unset;
+    padding-bottom: 100px;
+    width: 550px;
+}
+
+section {
+    width: 100%;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+section:last-child {
+    padding-bottom: 0px;
+}
+
+section.logo img {
+    height: 150px;
+}
+
+section.title h1 {
+    color: white;
+    font-weight: 100;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+section.content p {
+    color: white;
+    font-weight: 100;
+    font-size: 17px;
+    text-align: center;
+    max-width: 80%;
+}
+
+section.content p a {
+    color: royalblue;
+}
